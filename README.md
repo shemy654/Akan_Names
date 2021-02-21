@@ -1,4 +1,4 @@
-# Portfolio
+# Akan names
 ## Author
 Shem
 #### Project Description
