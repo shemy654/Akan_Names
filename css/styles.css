@@ -2,7 +2,7 @@
     text-align: center;
 }
 body{
-    background-image: url(/images/jama.jpg);
+    background-image: url(/images/boats.jpg);
     background-size: cover;
 }
 .p1{
@@ -37,4 +37,8 @@ h1{
 }
 .tel:hover{
     color: beige;
-}
+} 
+
+
+
+
